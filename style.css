@@ -1,0 +1,47 @@
+.container{
+    
+    justify-content: center;
+    text-align: center;
+    margin-right: 500px;
+}
+.intro{
+      
+    justify-content: center;
+    text-align: center;
+    background-color:#0dcaf0; ;
+    font-family: "Sacramento", cursive;
+}
+.girl{
+    border-radius: 50%;
+}
+.about{
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.hr{
+border: dotted wheat 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;}
+.cat{
+    float: left;
+    margin-left: 200px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.myskills{
+padding-bottom: 30px;
+}
+
+
+.button{
+    border-radius: 10%;
+    justify-content: left;
+    align-items: left;
+}
+.display-6{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
